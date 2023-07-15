@@ -1,7 +1,8 @@
-# Udemy Dashboard  
+# Udemy Course Analysis
 This Udemy Dashboard is a comparison tool that allows you to compare Udemy with two popular online learning platforms: Coursera and edX. It provides valuable insights and data to help you make an informed decision about which platform best suits your learning needs.
 
 [Live Dashboard Link](https://www.novypro.com/project/udemy-course-analysis-power-bi)  
+![Udemy_Dashboard](https://github.com/UjasPR/Udemy-Course-Analysis/assets/138766573/62ad8bf0-e68e-4da4-bc89-294f2d668e2f)
 
 ## Key Insights:
 - Udemy received 2x more Google searches than Coursera and 10x more searches than edX.
